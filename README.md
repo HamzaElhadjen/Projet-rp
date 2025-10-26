@@ -1,4 +1,4 @@
-#  Projet Rush Hour Solver – BFS & A*
+#  Projet Rush Hour Solver – BFS & A* .
 
 # Description du projet
 Ce projet implémente une **intelligence artificielle** capable de résoudre le célèbre puzzle **Rush Hour**, où le but est de libérer la voiture rouge ("X") bloquée par d’autres véhicules, en la faisant sortir du plateau.
